@@ -44,7 +44,7 @@ cd ~/.agents/skills
 git clone https://github.com/AlphaGao007/find-cn-ai-bounties.git
 ```
 
-如果仓库是私有的，请先让 agent 所在环境完成 GitHub 登录或配置访问令牌。
+这是公开仓库；agent 所在环境可以直接克隆。若你使用的是私有 fork 或镜像，再配置对应的 GitHub 登录或访问令牌。
 
 如果已经存在同名目录，可以进入目录后更新：
 
