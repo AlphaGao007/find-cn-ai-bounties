@@ -32,6 +32,12 @@ Use these as discovery feeds, not final authority. For every task discovered fro
 - Huntr: `https://huntr.com/bounties`
   - Scope: AI/ML supply-chain and open-source vulnerability bounties.
   - `地域范围`: `国际`.
+- AgentDeadlines: `https://agentdeadlines.com/`
+  - Scope: AI agent hackathons and competition deadline tracker.
+  - `地域范围`: `国际`.
+- hackathons.space: `https://www.hackathons.space/`
+  - Scope: global hackathon discovery, including AI and developer challenges.
+  - `地域范围`: `国际`.
 
 Aggregator handling rules:
 
@@ -119,6 +125,11 @@ For standing bounty programs, record the official rules link, eligible product s
 - Zindi competitions: `https://zindi.africa/competitions`
 - Codabench competitions: `https://www.codabench.org/competitions/`
 - Devpost hackathons: `https://devpost.com/hackathons`
+- ElevenHacks: `https://hacks.elevenlabs.io/`
+- lablab.ai hackathons: `https://lablab.ai/ai-hackathons`
+- HackQuest hackathons: `https://www.hackquest.io/hackathon/explore`
+- DoraHacks hackathons/bounties: `https://dorahacks.io/hackathon`
+- ARC Prize: `https://arcprize.org/competitions`
 
 ## Search Queries
 

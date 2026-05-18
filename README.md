@@ -23,7 +23,7 @@ Use $find-ai-bounties to build a current Feishu Bitable-ready calendar of domest
 也适合这些需求：
 
 - 更新国内与国际 AI 赏金任务日历
-- 补全 DataFountain、天池、CNVD、腾讯、华为、阿里、字节、ML Contests、AI赛事通、BBRadar、Huntr 等来源
+- 补全 DataFountain、天池、CNVD、腾讯、华为、阿里、字节、Kaggle、Devpost、ARC Prize、ElevenHacks、lablab.ai、ML Contests、AI赛事通、BBRadar、Huntr 等来源
 - 检查已有任务表里哪些已经过期
 - 生成可导入飞书多维表格的 CSV/XLSX
 - 给其他 agent 一个统一的数据抓取和清洗口径
@@ -126,7 +126,8 @@ node scripts/validate_calendar.mjs path/to/任务日历.csv --as-of 2026-05-17
 - 华为云大赛平台
 - ByteSRC、ASRC、TSRC、BSRC、360SRC、MiSRC、vivoSRC、BILISRC、DJI Security Response Center
 - 补天、Gitee Reward、CICAS、数字中国创新大赛、琶洲算法大赛、飞桨 AI Studio、ModelScope 等
-- AI赛事通 / CompeteHub、ML Contests、AIContestHub、Challenge Hunt、VoidScraper、BBRadar、Bounty Navigator、Huntr
+- AI赛事通 / CompeteHub、ML Contests、AIContestHub、Challenge Hunt、VoidScraper、AgentDeadlines、hackathons.space、BBRadar、Bounty Navigator、Huntr
+- Kaggle、Devpost、ARC Prize、ElevenHacks、lablab.ai、HackQuest、DoraHacks、DrivenData、AIcrowd、Zindi、Codabench 等国际竞赛/黑客松/赏金平台
 
 这些来源会变化，使用时必须重新核验官方页面或接口。
 
